@@ -1,0 +1,11 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MA300D1-1") (type "KiCad") (uri "${KIPRJMOD}/buzzer_piézo_actif/MA300D1-1.kicad_sym") (options "") (descr ""))
+	(lib (name "neopixel") (type "KiCad") (uri "${KIPRJMOD}/Néopixel/2758.kicad_sym") (options "") (descr ""))
+	(lib (name "AMS1117-3.3") (type "KiCad") (uri "${KIPRJMOD}/AMS1117/AMS1117-3.3.kicad_sym") (options "") (descr ""))
+	(lib (name "IC-RF-PN5321A3HN_C106_55_QFN40_") (type "KiCad") (uri "${KIPRJMOD}/IC-RF-PN5321A3HN_C106_55_QFN40_/IC-RF-PN5321A3HN_C106_55_QFN40_.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP32-S3-MINI-1-N8") (type "KiCad") (uri "${KIPRJMOD}/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1-N8.kicad_sym") (options "") (descr ""))
+	(lib (name "NFC_ANTENNA") (type "KiCad") (uri "${KIPRJMOD}/NFC_ANTENNA/NFC_ANTENNA.kicad_sym") (options "") (descr ""))
+	(lib (name "TYPE-C-31-M-12") (type "KiCad") (uri "${KIPRJMOD}/composant/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym") (options "") (descr ""))
+	(lib (name "NFC_35x20_N5_NXP_PN532") (type "KiCad") (uri "${KIPRJMOD}/KiCad_Package/NFC_35x20_N5_NXP_PN532.kicad_sym") (options "") (descr ""))
+)
