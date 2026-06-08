@@ -13749,6 +13749,30 @@
 		(layer "Edge.Cuts")
 		(uuid "9f002b01-3954-4b22-9fab-ad7f98c2dc00")
 	)
+	(gr_text "CAMPUS FAB"
+		(at 143.102295 109.1 90)
+		(layer "F.SilkS")
+		(uuid "bdd798ee-ea69-47e5-8f99-0e7bf70c1bce")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "FABRIQUE PAR \nMAMADOU MOUCTAR BA ET ALEXANDRU CARP\n\n"
+		(at 84.3 132.3 270)
+		(layer "B.SilkS")
+		(uuid "26e08467-f198-4630-aa0d-985c799afdac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 139.2 136.2)
 		(end 139.2 136.6)

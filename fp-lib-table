@@ -4,7 +4,6 @@
 	(lib (name "nfc_pn532_pretty") (type "KiCad") (uri "${KIPRJMOD}/KiCad_Package/nfc_pn532_pretty") (options "") (descr ""))
 	(lib (name "TYPE-C-31-M-12_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/TYPE-C-31-M-12/TYPE-C-31-M-12_pretty") (options "") (descr ""))
 	(lib (name "neopixel_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/Néopixel/neopixel_pretty") (options "") (descr ""))
-	(lib (name "ESP32-S3-MINI-1_pretty") (type "KiCad") (uri "C:/Users/bamam/OneDrive/Bureau/Stage/RaseLab_V2/COMPOSANTS/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1_pretty") (options "") (descr ""))
 	(lib (name "AMS1117_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/AMS1117/AMS1117_pretty") (options "") (descr ""))
 	(lib (name "NFC_mod_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/NFC_35x20_N5_NXP_PN532_export/KiCad_Package/NFC_mod_pretty") (options "") (descr ""))
 	(lib (name "mod_pretty") (type "KiCad") (uri "${KIPRJMOD}/KiCad_Package/mod_pretty") (options "") (descr ""))
@@ -13,4 +12,5 @@
 	(lib (name "U.FL_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_10_/U.FL_pretty") (options "") (descr ""))
 	(lib (name "U.FL_SMD_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_01_/U.FL_SMD_pretty") (options "") (descr ""))
 	(lib (name "connecteur_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/BM02B-GHS-TBT_LF__SN__N_/connecteur_pretty") (options "") (descr ""))
+	(lib (name "ESP32-S3-MINI-1_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/ESP32-S3-MINI-1-N8/ESP32-S3-MINI-1_pretty") (options "") (descr ""))
 )
