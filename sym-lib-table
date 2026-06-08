@@ -8,4 +8,7 @@
 	(lib (name "NFC_ANTENNA") (type "KiCad") (uri "${KIPRJMOD}/NFC_ANTENNA/NFC_ANTENNA.kicad_sym") (options "") (descr ""))
 	(lib (name "TYPE-C-31-M-12") (type "KiCad") (uri "${KIPRJMOD}/composant/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym") (options "") (descr ""))
 	(lib (name "NFC_35x20_N5_NXP_PN532") (type "KiCad") (uri "${KIPRJMOD}/KiCad_Package/NFC_35x20_N5_NXP_PN532.kicad_sym") (options "") (descr ""))
+	(lib (name "U.FL-R-SMT_10_") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_10_/U.FL-R-SMT_10_.kicad_sym") (options "") (descr ""))
+	(lib (name "U.FL-R-SMT_01_") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_01_/U.FL-R-SMT_01_.kicad_sym") (options "") (descr ""))
+	(lib (name "BM02B-GHS-TBT_LF__SN__N_") (type "KiCad") (uri "${KIPRJMOD}/composant/BM02B-GHS-TBT_LF__SN__N_/BM02B-GHS-TBT_LF__SN__N_.kicad_sym") (options "") (descr ""))
 )

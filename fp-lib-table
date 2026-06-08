@@ -10,4 +10,7 @@
 	(lib (name "mod_pretty") (type "KiCad") (uri "${KIPRJMOD}/KiCad_Package/mod_pretty") (options "") (descr ""))
 	(lib (name "antenne_mod") (type "KiCad") (uri "${KIPRJMOD}/antenne_mod.pretty") (options "") (descr ""))
 	(lib (name "nfc_antenna") (type "KiCad") (uri "C:/Users/bamam/OneDrive/Bureau/nfc_antenna.pretty") (options "") (descr ""))
+	(lib (name "U.FL_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_10_/U.FL_pretty") (options "") (descr ""))
+	(lib (name "U.FL_SMD_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/U.FL-R-SMT_01_/U.FL_SMD_pretty") (options "") (descr ""))
+	(lib (name "connecteur_pretty") (type "KiCad") (uri "${KIPRJMOD}/composant/BM02B-GHS-TBT_LF__SN__N_/connecteur_pretty") (options "") (descr ""))
 )
