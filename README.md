@@ -8,6 +8,7 @@ de vérifier son autorisation, puis de signaler le résultat
 (LED + buzzer). 
 
 
+```
 Badge NFC
     │
     ▼
@@ -23,6 +24,7 @@ Badge NFC
                          GPIO38    GPIO46
                               │        │
                         NeoPixels   Buzzer
+```
                 
 ### 1. Alimentation
 
